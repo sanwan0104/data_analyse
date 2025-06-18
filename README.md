@@ -153,6 +153,7 @@ $$
     
 
 ### **三、Tableau可视化**
+![image](https://github.com/user-attachments/assets/03fc3d8d-04c9-41d8-ae97-70bf34a3ca28)
+![image](https://github.com/user-attachments/assets/03fc3d8d-04c9-41d8-ae97-70bf34a3ca28)
 
-![image](https://github.com/user-attachments/assets/227dc9eb-9e48-4eae-a625-85a6ea14e972)
 

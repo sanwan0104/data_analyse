@@ -154,5 +154,5 @@ $$
 
 ### **三、Tableau可视化**
 
-![image-20250618142556034](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250618142556034.png)
+![image](https://github.com/user-attachments/assets/227dc9eb-9e48-4eae-a625-85a6ea14e972)
 

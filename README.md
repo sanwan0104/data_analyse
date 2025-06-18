@@ -122,11 +122,11 @@ $$
 
 - 计算观察频数与期望频数的差异：
   $$
-  \chi^2 = \sum \frac{(O_i - E_i)^2}{E_i} \quad \text{自由度} =  (行数-1)(列数-1)
+X^2 = \sum \frac{(O_i - E_i)^2}{E_i} \quad \text{自由度} =  (行数-1)(列数-1)
   $$
 
   $$
-  Cramér’s V（效应量）：V = \sqrt{ \frac{\chi^2}{n(k - 1)} }
+Cramér’s V（效应量）：V = \sqrt{ \frac{X^2}{n(k - 1)} }
   $$
 
 
